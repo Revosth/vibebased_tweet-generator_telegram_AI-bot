@@ -1,4 +1,4 @@
-# Ghostwriter Telegram Bot 🤖
+# Vibe Based Tweet Ghostwriter Telegram Bot 🤖
 
 A Telegram bot that acts as a personal ghostwriter. It takes a raw thought, cross-references it against a local database of past tweets to capture a specific "vibe," and uses the Gemini 2.5 Flash API to generate three distinct, publication-ready drafts.
 
