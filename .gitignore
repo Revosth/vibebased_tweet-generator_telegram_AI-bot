@@ -1,0 +1,10 @@
+# Environments
+.env
+__pycache__/
+venv/
+
+# Databases
+vibe_db.json
+
+# IDEs
+.idea/
